@@ -9,6 +9,9 @@ body {
   max-width: 680px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  outline: 5px solid red;
+}
+
 }
 
 section, header {
